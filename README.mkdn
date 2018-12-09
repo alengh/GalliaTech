@@ -1,7 +1,7 @@
 GalliaTech
 ===========
 
-GallaiTech Test ROM
+GalliaTech Test ROM
 
 Getting started
 ---------------
